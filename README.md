@@ -13,8 +13,8 @@
 
 ## Data pendidikan
 
-| PAUD KEBON RAYA BOGOR |
-| TK TADIKA MESRA  |
-| SMPN 2 CIRANJANG      |
-| SMK NURUL ISLAM         |
+| SD    | SDN SINDANG JAYA 03 |
+| ----------- | ----------- |
+| SMP      | SMPN 2 CIRANJANG      |
+| SMK | SMK NURUL ISLAM CIANJUR   |
 
