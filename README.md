@@ -10,3 +10,11 @@
 | ----------- | ----------- |
 | Tempat Tanggal Lahir     | Cianjur 27 februari 2004       |
 | Jenis Kelamin   | Laki Laki      |
+
+## Data pendidikan
+
+| PAUD KEBON RAYA BOGOR |
+| TK TADIKA MESRA  |
+| SMPN 2 CIRANJANG      |
+| SMK NURUL ISLAM         |
+
